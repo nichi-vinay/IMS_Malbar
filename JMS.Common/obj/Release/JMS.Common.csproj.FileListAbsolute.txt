@@ -1,0 +1,36 @@
+D:\src\JMS.Common\bin\Release\JMS.Common.dll
+D:\src\JMS.Common\bin\Release\JMS.Common.pdb
+D:\src\JMS.Common\bin\Release\log4net.dll
+D:\src\JMS.Common\bin\Release\log4net.xml
+D:\src\JMS.Common\obj\Release\JMS.Common.csproj.CoreCompileInputs.cache
+D:\src\JMS.Common\obj\Release\JMS.Common.csproj.CopyComplete
+D:\src\JMS.Common\obj\Release\JMS.Common.dll
+D:\src\JMS.Common\obj\Release\JMS.Common.pdb
+D:\src\JMS.Common\obj\Release\JMS.Common.csprojAssemblyReference.cache
+C:\Users\nichiuser\Downloads\GITT\JMS\src\JMS.Common\bin\Release\JMS.Common.dll
+C:\Users\nichiuser\Downloads\GITT\JMS\src\JMS.Common\bin\Release\JMS.Common.pdb
+C:\Users\nichiuser\Downloads\GITT\JMS\src\JMS.Common\bin\Release\log4net.dll
+C:\Users\nichiuser\Downloads\GITT\JMS\src\JMS.Common\bin\Release\log4net.xml
+C:\Users\nichiuser\Downloads\GITT\JMS\src\JMS.Common\obj\Release\JMS.Common.csproj.AssemblyReference.cache
+C:\Users\nichiuser\Downloads\GITT\JMS\src\JMS.Common\obj\Release\JMS.Common.csproj.CoreCompileInputs.cache
+C:\Users\nichiuser\Downloads\GITT\JMS\src\JMS.Common\obj\Release\JMS.Common.csproj.CopyComplete
+C:\Users\nichiuser\Downloads\GITT\JMS\src\JMS.Common\obj\Release\JMS.Common.dll
+C:\Users\nichiuser\Downloads\GITT\JMS\src\JMS.Common\obj\Release\JMS.Common.pdb
+C:\Users\nichiuser\Downloads\JMS (1)\JMS\src\JMS.Common\bin\Release\JMS.Common.dll
+C:\Users\nichiuser\Downloads\JMS (1)\JMS\src\JMS.Common\bin\Release\JMS.Common.pdb
+C:\Users\nichiuser\Downloads\JMS (1)\JMS\src\JMS.Common\bin\Release\log4net.dll
+C:\Users\nichiuser\Downloads\JMS (1)\JMS\src\JMS.Common\bin\Release\log4net.xml
+C:\Users\nichiuser\Downloads\JMS (1)\JMS\src\JMS.Common\obj\Release\JMS.Common.csproj.AssemblyReference.cache
+C:\Users\nichiuser\Downloads\JMS (1)\JMS\src\JMS.Common\obj\Release\JMS.Common.csproj.CoreCompileInputs.cache
+C:\Users\nichiuser\Downloads\JMS (1)\JMS\src\JMS.Common\obj\Release\JMS.Common.csproj.CopyComplete
+C:\Users\nichiuser\Downloads\JMS (1)\JMS\src\JMS.Common\obj\Release\JMS.Common.dll
+C:\Users\nichiuser\Downloads\JMS (1)\JMS\src\JMS.Common\obj\Release\JMS.Common.pdb
+C:\Users\nichiuser\Documents\Nichi Projects\Perfect Projects JMS Nichi _IN\JMS\JMS\src\JMS.Common\bin\Release\JMS.Common.dll
+C:\Users\nichiuser\Documents\Nichi Projects\Perfect Projects JMS Nichi _IN\JMS\JMS\src\JMS.Common\bin\Release\JMS.Common.pdb
+C:\Users\nichiuser\Documents\Nichi Projects\Perfect Projects JMS Nichi _IN\JMS\JMS\src\JMS.Common\bin\Release\log4net.dll
+C:\Users\nichiuser\Documents\Nichi Projects\Perfect Projects JMS Nichi _IN\JMS\JMS\src\JMS.Common\bin\Release\log4net.xml
+C:\Users\nichiuser\Documents\Nichi Projects\Perfect Projects JMS Nichi _IN\JMS\JMS\src\JMS.Common\obj\Release\JMS.Common.csproj.AssemblyReference.cache
+C:\Users\nichiuser\Documents\Nichi Projects\Perfect Projects JMS Nichi _IN\JMS\JMS\src\JMS.Common\obj\Release\JMS.Common.csproj.CoreCompileInputs.cache
+C:\Users\nichiuser\Documents\Nichi Projects\Perfect Projects JMS Nichi _IN\JMS\JMS\src\JMS.Common\obj\Release\JMS.Common.csproj.CopyComplete
+C:\Users\nichiuser\Documents\Nichi Projects\Perfect Projects JMS Nichi _IN\JMS\JMS\src\JMS.Common\obj\Release\JMS.Common.dll
+C:\Users\nichiuser\Documents\Nichi Projects\Perfect Projects JMS Nichi _IN\JMS\JMS\src\JMS.Common\obj\Release\JMS.Common.pdb

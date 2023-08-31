@@ -1,0 +1,27 @@
+D:\src\JMS.Common\bin\Debug\JMS.Common.dll
+D:\src\JMS.Common\bin\Debug\JMS.Common.pdb
+D:\src\JMS.Common\bin\Debug\log4net.dll
+D:\src\JMS.Common\bin\Debug\log4net.xml
+D:\src\JMS.Common\obj\Debug\JMS.Common.csproj.CoreCompileInputs.cache
+D:\src\JMS.Common\obj\Debug\JMS.Common.csproj.CopyComplete
+D:\src\JMS.Common\obj\Debug\JMS.Common.dll
+D:\src\JMS.Common\obj\Debug\JMS.Common.pdb
+D:\src\JMS.Common\obj\Debug\JMS.Common.csprojAssemblyReference.cache
+C:\Users\nichiuser\Downloads\GITT\JMS\src\JMS.Common\bin\Debug\JMS.Common.dll
+C:\Users\nichiuser\Downloads\GITT\JMS\src\JMS.Common\bin\Debug\JMS.Common.pdb
+C:\Users\nichiuser\Downloads\GITT\JMS\src\JMS.Common\bin\Debug\log4net.dll
+C:\Users\nichiuser\Downloads\GITT\JMS\src\JMS.Common\bin\Debug\log4net.xml
+C:\Users\nichiuser\Downloads\GITT\JMS\src\JMS.Common\obj\Debug\JMS.Common.csproj.AssemblyReference.cache
+C:\Users\nichiuser\Downloads\GITT\JMS\src\JMS.Common\obj\Debug\JMS.Common.csproj.CoreCompileInputs.cache
+C:\Users\nichiuser\Downloads\GITT\JMS\src\JMS.Common\obj\Debug\JMS.Common.csproj.CopyComplete
+C:\Users\nichiuser\Downloads\GITT\JMS\src\JMS.Common\obj\Debug\JMS.Common.dll
+C:\Users\nichiuser\Downloads\GITT\JMS\src\JMS.Common\obj\Debug\JMS.Common.pdb
+C:\Users\nichiuser\Downloads\JMS (1)\JMS\src\JMS.Common\bin\Debug\JMS.Common.dll
+C:\Users\nichiuser\Downloads\JMS (1)\JMS\src\JMS.Common\bin\Debug\JMS.Common.pdb
+C:\Users\nichiuser\Downloads\JMS (1)\JMS\src\JMS.Common\bin\Debug\log4net.dll
+C:\Users\nichiuser\Downloads\JMS (1)\JMS\src\JMS.Common\bin\Debug\log4net.xml
+C:\Users\nichiuser\Downloads\JMS (1)\JMS\src\JMS.Common\obj\Debug\JMS.Common.csproj.AssemblyReference.cache
+C:\Users\nichiuser\Downloads\JMS (1)\JMS\src\JMS.Common\obj\Debug\JMS.Common.csproj.CoreCompileInputs.cache
+C:\Users\nichiuser\Downloads\JMS (1)\JMS\src\JMS.Common\obj\Debug\JMS.Common.csproj.CopyComplete
+C:\Users\nichiuser\Downloads\JMS (1)\JMS\src\JMS.Common\obj\Debug\JMS.Common.dll
+C:\Users\nichiuser\Downloads\JMS (1)\JMS\src\JMS.Common\obj\Debug\JMS.Common.pdb
